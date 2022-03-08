@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charmain-Bonareri
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning Web development..
 - 🌱 I’m currently learning Software Development...
 - 📫 How to reach me mogerecharmain@gmail.com
 
