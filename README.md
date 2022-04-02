@@ -1,8 +1,9 @@
 ### Hi there, I'm Charmain Bonareri👋
 <p align="center"> 
   
-  <img src="![CHARMAIN (2)](https://user-images.githubusercontent.com/100102952/161370933-a9c61f7f-1e23-4ec0-9e01-6e3169dbfec0.png)
-" />
+ ![CHARMAIN (3)](https://user-images.githubusercontent.com/100102952/161371262-99538ccc-5812-4bb1-99c0-ab7ed0e77f68.png)
+
+
 </p>
  
 - 🔭 I’m passionate about going the extra mile to ensure customer is unquestionably satisfied with the product or service provided. 
