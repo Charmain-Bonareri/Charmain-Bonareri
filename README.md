@@ -1,7 +1,7 @@
 ### Hi there, I'm Charmain Bonareri👋
 <p align="center"> 
   
- ![CHARMAIN (3)](https://user-images.githubusercontent.com/100102952/161371262-99538ccc-5812-4bb1-99c0-ab7ed0e77f68.png)
+ ![CHARMAIN (3) (1)](https://user-images.githubusercontent.com/100102952/161382660-a469826c-9dc5-41f5-801d-76d548b39e72.png)
 
 
 </p>
