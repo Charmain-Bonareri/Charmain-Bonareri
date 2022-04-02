@@ -14,7 +14,7 @@
 <br>
 
 - 💬 Ask me about Front-end Web Development, UI designs, Designing with Canva, Optimizing Linkedin Profile.
-- 📫 How to reach me mogerecharmain@gmail.com
+- 📫 How to reach me mogerecharmain@gmail.com | slack @ Charmain Bonareri
 <br>
 
 - 😄 **Keep your design simple!** Focus on important and required features. Forget about extra things that seem essential to you but do not add any value for your customer. These extra features make your design complex.
