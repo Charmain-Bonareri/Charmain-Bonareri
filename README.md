@@ -10,7 +10,6 @@
 - 👀 I’m interested in being a full stack developer with a bias in front-end development 👀
 - 🌱 I’m currently learning how to build interactive web projects with Angular.🌱
 - 👯 I’m looking to collaborate on building a design system. Working with design community to set standards around accesibilty, motion, age and appropriate design. 👯
-- ✨ Some people, when confronted with a problem, think “I know, I’ll use regular expressions!” I am them, I have a vibe with Regex.✨
 - ⚡  Fun fact: Coding is an art, **The first programmer was the daughter of a mad poet!**
 <br>
 
