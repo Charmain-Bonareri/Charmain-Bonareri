@@ -6,11 +6,9 @@
 
 </p>
  
-- 🔭 I’m passionate about UI/UX design. 🔭
 - 👀 I’m interested in being a full stack developer with a bias in front-end development 👀
 - 🌱 I’m currently learning how to build interactive web projects with Angular.🌱
 - 👯 I’m looking to collaborate on building a design system. Working with design community to set standards around accesibilty, motion, age and appropriate design. 👯
-- ⚡  Fun fact: Coding is an art, **The first programmer was the daughter of a mad poet!**
 <br>
 
 - 💬 Ask me about Front-end Web Development, UI designs, Designing with Canva, Optimizing Linkedin Profile.
